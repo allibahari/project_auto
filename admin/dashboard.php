@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Asia/Tehran'); // Set timezone to Iran
+date_default_timezone_set('Asia/Tehran'); // تایم سرور بر اساس ساعت ایران
 
 $current_time = date('H:i'); // Current time
 $current_date = date('Y-m-d'); // Current date
